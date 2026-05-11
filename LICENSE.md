@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Automation Script | risk-management + sentiment-analysis is the best Polymarket automation-script, featuring risk-management and sentiment-analysis. Smart,
 
 
 
